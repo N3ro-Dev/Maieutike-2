@@ -4,7 +4,7 @@ export default function App() {
   // perfis de exemplo
   const [users] = useState([
     { id: 1, name: 'Ana (Professora)', role: 'teacher', bio: 'Prof. de banco de dados — Álgebra e Cálculo', subjects: ['Matemática', 'Cálculo'] },
-    { id: 2, name: 'Bruno (Aluno)', role: 'student', bio: 'Estudante  — busca reforço em estatística', subjects: ['Estatística'] },
+    { id: 2, name: 'Bruno (Aluno)', role: 'student', bio: 'Estudante de Desenvolvimento de sistema — busca reforço em estatística', subjects: ['Estatística'] },
     { id: 3, name: 'Carla (Professora)', role: 'teacher', bio: 'Profª de Seguraça de rede — redes', subjects: ['História'] },
   ]);
 
